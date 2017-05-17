@@ -111,7 +111,7 @@ ul {
 }
 
 .preloader .middle .fa {
-  color: #aa9a45;
+  color: #f55b06;
   font-size: 25px;
   float: left;
   margin-right: 5px;
@@ -177,7 +177,7 @@ ul {
 }
 
 #clock > .box:nth-child(even) {
-  background-color: #9f9041;
+  background-color: #e63c07
 }
 
 #clock .box div {
@@ -461,7 +461,7 @@ ul {
 .bridesmaids .box .fade-icon .icon,
 .gallery .box .details .icon,
 .gallery .box .fade-icon .icon {
-  background-color: #aa9a45;
+  background-color: #f55b06;
   width: 35px;
   height: 35px;
   line-height: 35px;
@@ -503,7 +503,7 @@ ul {
 }
 
 .theme-btn {
-  background-color: #aa9a45;
+  background-color: #f55b06;
   line-height: 0.66em;
   color: #fff;
   padding: 15px;
@@ -541,12 +541,12 @@ ul {
 .form input:focus,
 .form textarea:focus,
 .form select:focus {
-  border-color: #aa9a45;
-  -webkit-box-shadow: 0 0 5px 0 #bfb163;
-  -moz-box-shadow: 0 0 5px 0 #bfb163;
-  -o-box-shadow: 0 0 5px 0 #bfb163;
-  -ms-box-shadow: 0 0 5px 0 #bfb163;
-  box-shadow: 0 0 5px 0 #bfb163;
+  border-color: #f55b06;
+  -webkit-box-shadow: 0 0 5px 0 #f55b06;
+  -moz-box-shadow: 0 0 5px 0 #f55b06;
+  -o-box-shadow: 0 0 5px 0 #f55b06;
+  -ms-box-shadow: 0 0 5px 0 #f55b06;
+  box-shadow: 0 0 5px 0 #f55b06;
 }
 
 .form ::-webkit-input-placeholder {
@@ -614,7 +614,7 @@ ul {
 }
 
 .social-links li a {
-  background-color: #bfb163;
+  background-color: #f55b06;
   width: 35px;
   height: 35px;
   line-height: 35px;
@@ -624,7 +624,7 @@ ul {
 }
 
 .social-links li a:hover {
-  background-color: #aa9a45;
+  background-color: #f55b06;
 }
 
 /***********************
@@ -685,7 +685,7 @@ header #navbar .mobile-menu-logo {
 }
 
 header #navbar .mobile-menu-logo i {
-  color: #aa9a45;
+  color: #f55b06;
 }
 
 @media (max-width: 991px) {
@@ -717,7 +717,7 @@ header #navbar .navbar-nav > .active > a,
 header #navbar .navbar-nav > .active > a:focus,
 header #navbar .navbar-nav a:hover {
   background-color: transparent;
-  color: #aa9a45;
+  color: #f55b06;
 }
 
 @media screen and (min-width: 992px) {
@@ -782,7 +782,7 @@ header #navbar .navbar-nav > .open > a:hover {
     width: 100%;
   }
   header .navbar-header button {
-    background-color: #aa9a45;
+    background-color: #f55b06;
     width: 40px;
     height: 35px;
     border: 0;
@@ -826,7 +826,7 @@ header #navbar .navbar-nav > .open > a:hover {
     overflow: auto;
   }
   header #navbar .close-navbar {
-    background-color: #aa9a45;
+    background-color: #f55b06;
     width: 35px;
     height: 35px;
     color: #fff;
@@ -964,7 +964,7 @@ header #navbar .navbar-nav > .open > a:hover {
   height: 0;
   border-left: 90px solid transparent;
   border-right: 90px solid transparent;
-  border-top: 60px solid rgba(170, 154, 69, 0.9);
+  border-top: 60px solid #FF5722;
   position: absolute;
   top: 0;
   left: 50%;
@@ -979,7 +979,7 @@ header #navbar .navbar-nav > .open > a:hover {
   .logo-bottom-shape-wrapper .logo-bottom-shape:before {
     border-left: 60px solid transparent;
     border-right: 60px solid transparent;
-    border-top: 50px solid rgba(170, 154, 69, 0.9);
+    border-top: 50px solid #FF5722;
   }
 }
 
@@ -1028,9 +1028,9 @@ footer:before {
 }
 
 footer .box {
-  background: rgba(170, 154, 69, 0.6);
+  background: #FF5722;
   padding: 50px 25px;
-  border: 5px solid #aa9a45;
+  border: 5px solid #f55b06;
   margin-bottom: 35px;
   position: relative;
   /** frame **/
@@ -1039,7 +1039,7 @@ footer .box {
 @media (max-width: 767px) {
   footer .box {
     padding: 40px 20px;
-    border: 3px solid #aa9a45;
+    border: 3px solid #f55b06;
   }
 }
 
@@ -1285,7 +1285,7 @@ footer .copyright {
 }
 
 .hero .announcement-wrapper .couple-name {
-  background-color: rgba(170, 154, 69, 0.5);
+  background-color: rgba(245, 126, 61, 0.82);
   display: inline-block;
   margin-top: 20px;
   padding: 15px 35px;
@@ -1300,7 +1300,7 @@ footer .copyright {
 
 .hero .announcement-wrapper .couple-name:before, .hero .announcement-wrapper .couple-name:after {
   content: "";
-  background-color: #aa9a45;
+  background-color: #f55b06;
   width: 105%;
   height: 3px;
   position: absolute;
@@ -1405,7 +1405,7 @@ footer .copyright {
   font-family: FontAwesome;
   content: "\f004";
   font-size: 20px;
-  color: #aa9a45;
+  color: #f55b06;
   opacity: 0.5;
 }
 
@@ -1426,7 +1426,7 @@ footer .copyright {
 # count-down
 --------------------------------------------------------------*/
 .count-down {
-  background-color: #aa9a45;
+  background-color: #f55b06;
   color: #fff;
   position: relative;
 }
@@ -1505,7 +1505,7 @@ footer .copyright {
 .couple .details h4 {
   font-size: 24px;
   font-weight: bold;
-  color: #aa9a45;
+  color: #f55b06;
   margin: 0.4em 0 1.2em;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -1633,14 +1633,14 @@ footer .copyright {
 .story .story-box .nav-tabs li {
   width: 25%;
   margin: 0;
-  border-right: 1px solid #aa9a45;
+  border-right: 1px solid #f55b06;
 }
 
 @media (max-width: 550px) {
   .story .story-box .nav-tabs li {
     width: 100%;
     border-right: 0;
-    border-bottom: 1px solid #aa9a45;
+    border-bottom: 1px solid #f55b06;
   }
 }
 
@@ -1649,7 +1649,7 @@ footer .copyright {
 }
 
 .story .story-box .nav-tabs li a {
-  background-color: #b8a850;
+  background-color: #e63c07;
   display: block;
   font-size: 13px;
   color: #fff;
@@ -1688,7 +1688,7 @@ footer .copyright {
 }
 
 .story .story-box .nav-tabs li.active a {
-  background-color: #aa9a45;
+  background-color: #f55b06;
 }
 
 .story .tab-content {
@@ -1725,7 +1725,7 @@ footer .copyright {
 
 .story .tab-content .story-details span {
   display: block;
-  color: #aa9a45;
+  color: #f55b06;
   font-size: 14px;
   font-weight: bold;
   text-transform: uppercase;
@@ -1784,18 +1784,18 @@ footer .copyright {
 .events .event-boxes {
   position: relative;
   overflow: hidden;
-  border: 6px solid #bfb163;
+  border: 6px solid #f55b06;
 }
 
 @media (max-width: 767px) {
   .events .event-boxes {
-    border: 3px solid #bfb163;
+    border: 3px solid #f55b06;
   }
 }
 
 .events .event-boxes .left-half,
 .events .event-boxes .right-half {
-  background-color: #bfb163;
+  background-color: #f55b06;
   width: 50%;
   height: 100%;
   position: absolute;
@@ -1905,7 +1905,7 @@ footer .copyright {
 .events .bachalor-party h3 {
   font-size: 18px;
   font-weight: bold;
-  color: #aa9a45;
+  color: #f55b06;
   margin: 0 0 0.7em;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -2054,8 +2054,8 @@ footer .copyright {
 .bquotes .bquotes-slider .owl-dots .owl-dot span {
   width: 17px !important;
   height: 17px !important;
-  background-color: #aa9a45;
-  border: 4px solid #615828;
+  background-color: #f55b06;
+  border: 4px solid #FF5722;
   opacity: 0.5;
   margin: 0;
 }
@@ -2092,7 +2092,7 @@ footer .copyright {
 .important-people .bridesmaids h3 {
   font-size: 22px;
   font-weight: bold;
-  color: #bfb163;
+  color: #f55b06;
   margin: 0 0 1.5em;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -2122,7 +2122,7 @@ footer .copyright {
 .important-people .groomsmen .owl-controls .owl-next,
 .important-people .bridesmaids .owl-controls .owl-prev,
 .important-people .bridesmaids .owl-controls .owl-next {
-  background-color: #bfb163;
+  background-color: #f55b06;
   width: 32px;
   height: 32px;
   line-height: 32px;
@@ -2140,7 +2140,7 @@ footer .copyright {
 .important-people .groomsmen .owl-controls .owl-next:hover,
 .important-people .bridesmaids .owl-controls .owl-prev:hover,
 .important-people .bridesmaids .owl-controls .owl-next:hover {
-  background-color: #aa9a45;
+  background-color: #f55b06;
 }
 
 @media (max-width: 767px) {
@@ -2339,7 +2339,7 @@ footer .copyright {
 .rsvp .rsvp-form-wrapper .border-box {
   width: 95%;
   height: 93%;
-  border: 1px solid #bfb163;
+  border: 1px solid #f55b06;
   position: absolute;
   left: 50%;
   top: 50%;
@@ -2359,7 +2359,7 @@ footer .copyright {
 .rsvp .rsvp-form-wrapper .border-box > div {
   width: 99%;
   height: 99%;
-  border: 1px solid #bfb163;
+  border: 1px solid #f55b06;
   position: relative;
   left: 50%;
   top: 50%;
@@ -2371,7 +2371,7 @@ footer .copyright {
 }
 
 .rsvp .rsvp-form-wrapper .border-box .fi {
-  background: #aa9a45;
+  background: #f55b06;
   display: inline-block;
   width: 32px;
   height: 32px;
@@ -2598,7 +2598,7 @@ footer .copyright {
 }
 
 .journal .journal-content h4 a {
-  color: #aa9a45;
+  color: #f55b06;
 }
 
 .journal .journal-content h4 + span {
@@ -2671,7 +2671,7 @@ footer .copyright {
 }
 
 .journal .journal-content .modal .close {
-  background-color: #aa9a45;
+  background-color: #f55b06;
   width: 35px;
   height: 35px;
   line-height: 35px;
@@ -2685,7 +2685,7 @@ footer .copyright {
 }
 
 .journal .journal-content .modal .modal-body span {
-  background-color: #bfb163;
+  background-color: #f55b06;
   font-size: 13px;
   color: white;
   text-transform: uppercase;
