@@ -1976,9 +1976,11 @@ footer .copyright {
 # bquotes
 --------------------------------------------------------------*/
 .bquotes {
-  background: url("../images/bquotes-bg.jpg") center center/cover no-repeat fixed;
+  /*background:#e63c07;*/
+  background: url(../images/big-flower-bt.png)  #e63c07  no-repeat;
+    background-position:100% 39.7778px;
   text-align: center;
-  color: #fff;
+  color: #fff;  
   padding: 100px 0 90px;
   position: relative;
 }
@@ -1991,7 +1993,7 @@ footer .copyright {
 
 .bquotes:before {
   content: "";
-  background-color: rgba(0, 0, 0, 0.6);
+  /*background-color: rgba(0, 0, 0, 0.6);*/
   width: 100%;
   height: 100%;
   position: absolute;
